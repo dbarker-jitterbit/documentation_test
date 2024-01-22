@@ -25,6 +25,7 @@
       "Notes": "String(250) Req=0",
       "Summary": "String(200) Req=0",
       "ref2": "String(200) Req=0",
+      "ref3": "String(200) Req=0",
       "Addresses": [
          {
             "AddType": "String(5) Req=1 Enum(SHIP,SUPP,BILL)",
